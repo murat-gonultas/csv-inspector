@@ -1,0 +1,15 @@
+/build/
+/out/
+/bin/
+/.vscode/
+/.vs/
+*.user
+*.suo
+*.VC.db
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.lib
